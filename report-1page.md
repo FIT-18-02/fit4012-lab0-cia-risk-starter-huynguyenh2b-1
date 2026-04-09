@@ -30,5 +30,4 @@
 - Mitigation: Thực hiện kiểm tra tính hợp lệ của dữ liệu (Data validation) nghiêm ngặt từ phía máy chủ (Server-side); áp dụng nguyên tắc đặc quyền tối thiểu (Principle of Least Privilege) đối với các module liên quan đến tính toán giá cả và giao dịch.
 
 ### 4. Kết luận ngắn
-(4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
 Qua bài lab, em hiểu rõ cách áp dụng mô hình C.I.A để bảo vệ các tài sản cốt lõi của hệ thống. Khó khăn nhất là việc phân biệt chính xác giữa Mối đe dọa (Threat) và Lỗ hổng (Vulnerability) để đề xuất biện pháp khắc phục hiệu quả. Bài học rút ra khi phân tích sự cố là phải nhìn nhận toàn diện: không chỉ tập trung vào lỗi kỹ thuật mà còn phải đánh giá tác động đến tài chính và uy tín của doanh nghiệp.
